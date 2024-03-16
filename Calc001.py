@@ -30,4 +30,5 @@ while operation != "break":
         print(math.sin(a))    
     operation = ""               
     print("uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu")
+    print("iii")
 
