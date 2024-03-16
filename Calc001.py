@@ -29,5 +29,5 @@ while operation != "break":
     elif operation=="sin":
         print(math.sin(a))    
     operation = ""               
-
+    print("uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu")
 
